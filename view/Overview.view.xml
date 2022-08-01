@@ -9,7 +9,7 @@
     <Page id="page" title="{i18n>title}">
         <customHeader>
             <tnt:ToolHeader id="ToolHeader">
-                <Image id="HedingLogo" src="test-resources/sap/tnt/images/SAP_Logo.png" />
+                <Image id="HedingLogo" src="./assets/SAP_Logo.png" />
                 <Text id="HeadingText" text="{i18n>appHeading}" wrapping="false" />
                 <ToolbarSpacer id="HeaderSpacer"/>
 	        </tnt:ToolHeader>
