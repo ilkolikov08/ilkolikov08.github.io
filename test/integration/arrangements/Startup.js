@@ -1,0 +1,1 @@
+"use strict";sap.ui.define(["sap/ui/test/Opa5"],function(t){"use strict";return t.extend("sap.btp.ui5challange.test.integration.arrangements.Startup",{iStartMyApp:function t(a){var e=a||{};e.delay=e.delay||50;this.iStartMyUIComponent({componentConfig:{name:"sap.btp.ui5challange",async:true},hash:e.hash,autoWait:e.autoWait})}})});

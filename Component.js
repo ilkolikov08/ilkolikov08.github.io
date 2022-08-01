@@ -1,0 +1,1 @@
+"use strict";sap.ui.define(["sap/ui/core/UIComponent","sap/ui/Device","sap/btp/ui5challange/model/models"],function(e,t,i){"use strict";return e.extend("sap.btp.ui5challange.Component",{metadata:{manifest:"json"},init:function t(){e.prototype.init.apply(this,arguments);this.getRouter().initialize();this.setModel(i.createDeviceModel(),"device")}})});

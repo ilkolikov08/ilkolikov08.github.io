@@ -1,0 +1,394 @@
+{
+  "ZCDC_EX01_TOP": [
+    {
+      "app_id": "app_id_0",
+      "app_name": "app_name_0",
+      "pillar": "pillar_0",
+      "it_series": "it_series_0",
+      "app_type": "app_type_0",
+      "assign_group": "assign_group_0",
+      "__metadata": {
+        "id": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_0)",
+        "uri": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_0)",
+        "type": "ZCDC_EX01_TOP_CDS.ZCDC_EX01_TOPType"
+      }
+    },
+    {
+      "app_id": "app_id_1",
+      "app_name": "app_name_1",
+      "pillar": "pillar_1",
+      "it_series": "it_series_1",
+      "app_type": "app_type_1",
+      "assign_group": "assign_group_1",
+      "__metadata": {
+        "id": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_1)",
+        "uri": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_1)",
+        "type": "ZCDC_EX01_TOP_CDS.ZCDC_EX01_TOPType"
+      }
+    },
+    {
+      "app_id": "app_id_2",
+      "app_name": "app_name_2",
+      "pillar": "pillar_2",
+      "it_series": "it_series_2",
+      "app_type": "app_type_2",
+      "assign_group": "assign_group_2",
+      "__metadata": {
+        "id": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_2)",
+        "uri": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_2)",
+        "type": "ZCDC_EX01_TOP_CDS.ZCDC_EX01_TOPType"
+      }
+    },
+    {
+      "app_id": "app_id_3",
+      "app_name": "app_name_3",
+      "pillar": "pillar_3",
+      "it_series": "it_series_3",
+      "app_type": "app_type_3",
+      "assign_group": "assign_group_3",
+      "__metadata": {
+        "id": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_3)",
+        "uri": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_3)",
+        "type": "ZCDC_EX01_TOP_CDS.ZCDC_EX01_TOPType"
+      }
+    },
+    {
+      "app_id": "app_id_4",
+      "app_name": "app_name_4",
+      "pillar": "pillar_4",
+      "it_series": "it_series_4",
+      "app_type": "app_type_4",
+      "assign_group": "assign_group_4",
+      "__metadata": {
+        "id": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_4)",
+        "uri": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_4)",
+        "type": "ZCDC_EX01_TOP_CDS.ZCDC_EX01_TOPType"
+      }
+    },
+    {
+      "app_id": "app_id_5",
+      "app_name": "app_name_5",
+      "pillar": "pillar_5",
+      "it_series": "it_series_5",
+      "app_type": "app_type_5",
+      "assign_group": "assign_group_5",
+      "__metadata": {
+        "id": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_5)",
+        "uri": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_5)",
+        "type": "ZCDC_EX01_TOP_CDS.ZCDC_EX01_TOPType"
+      }
+    },
+    {
+      "app_id": "app_id_6",
+      "app_name": "app_name_6",
+      "pillar": "pillar_6",
+      "it_series": "it_series_6",
+      "app_type": "app_type_6",
+      "assign_group": "assign_group_6",
+      "__metadata": {
+        "id": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_6)",
+        "uri": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_6)",
+        "type": "ZCDC_EX01_TOP_CDS.ZCDC_EX01_TOPType"
+      }
+    },
+    {
+      "app_id": "app_id_7",
+      "app_name": "app_name_7",
+      "pillar": "pillar_7",
+      "it_series": "it_series_7",
+      "app_type": "app_type_7",
+      "assign_group": "assign_group_7",
+      "__metadata": {
+        "id": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_7)",
+        "uri": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_7)",
+        "type": "ZCDC_EX01_TOP_CDS.ZCDC_EX01_TOPType"
+      }
+    },
+    {
+      "app_id": "app_id_8",
+      "app_name": "app_name_8",
+      "pillar": "pillar_8",
+      "it_series": "it_series_8",
+      "app_type": "app_type_8",
+      "assign_group": "assign_group_8",
+      "__metadata": {
+        "id": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_8)",
+        "uri": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_8)",
+        "type": "ZCDC_EX01_TOP_CDS.ZCDC_EX01_TOPType"
+      }
+    },
+    {
+      "app_id": "app_id_9",
+      "app_name": "app_name_9",
+      "pillar": "pillar_9",
+      "it_series": "it_series_9",
+      "app_type": "app_type_9",
+      "assign_group": "assign_group_9",
+      "__metadata": {
+        "id": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_9)",
+        "uri": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_9)",
+        "type": "ZCDC_EX01_TOP_CDS.ZCDC_EX01_TOPType"
+      }
+    },
+    {
+      "app_id": "app_id_10",
+      "app_name": "app_name_10",
+      "pillar": "pillar_10",
+      "it_series": "it_series_10",
+      "app_type": "app_type_10",
+      "assign_group": "assign_group_10",
+      "__metadata": {
+        "id": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_10)",
+        "uri": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_10)",
+        "type": "ZCDC_EX01_TOP_CDS.ZCDC_EX01_TOPType"
+      }
+    },
+    {
+      "app_id": "app_id_11",
+      "app_name": "app_name_11",
+      "pillar": "pillar_11",
+      "it_series": "it_series_11",
+      "app_type": "app_type_11",
+      "assign_group": "assign_group_11",
+      "__metadata": {
+        "id": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_11)",
+        "uri": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_11)",
+        "type": "ZCDC_EX01_TOP_CDS.ZCDC_EX01_TOPType"
+      }
+    },
+    {
+      "app_id": "app_id_12",
+      "app_name": "app_name_12",
+      "pillar": "pillar_12",
+      "it_series": "it_series_12",
+      "app_type": "app_type_12",
+      "assign_group": "assign_group_12",
+      "__metadata": {
+        "id": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_12)",
+        "uri": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_12)",
+        "type": "ZCDC_EX01_TOP_CDS.ZCDC_EX01_TOPType"
+      }
+    },
+    {
+      "app_id": "app_id_13",
+      "app_name": "app_name_13",
+      "pillar": "pillar_13",
+      "it_series": "it_series_13",
+      "app_type": "app_type_13",
+      "assign_group": "assign_group_13",
+      "__metadata": {
+        "id": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_13)",
+        "uri": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_13)",
+        "type": "ZCDC_EX01_TOP_CDS.ZCDC_EX01_TOPType"
+      }
+    },
+    {
+      "app_id": "app_id_14",
+      "app_name": "app_name_14",
+      "pillar": "pillar_14",
+      "it_series": "it_series_14",
+      "app_type": "app_type_14",
+      "assign_group": "assign_group_14",
+      "__metadata": {
+        "id": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_14)",
+        "uri": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_14)",
+        "type": "ZCDC_EX01_TOP_CDS.ZCDC_EX01_TOPType"
+      }
+    },
+    {
+      "app_id": "app_id_15",
+      "app_name": "app_name_15",
+      "pillar": "pillar_15",
+      "it_series": "it_series_15",
+      "app_type": "app_type_15",
+      "assign_group": "assign_group_15",
+      "__metadata": {
+        "id": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_15)",
+        "uri": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_15)",
+        "type": "ZCDC_EX01_TOP_CDS.ZCDC_EX01_TOPType"
+      }
+    },
+    {
+      "app_id": "app_id_16",
+      "app_name": "app_name_16",
+      "pillar": "pillar_16",
+      "it_series": "it_series_16",
+      "app_type": "app_type_16",
+      "assign_group": "assign_group_16",
+      "__metadata": {
+        "id": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_16)",
+        "uri": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_16)",
+        "type": "ZCDC_EX01_TOP_CDS.ZCDC_EX01_TOPType"
+      }
+    },
+    {
+      "app_id": "app_id_17",
+      "app_name": "app_name_17",
+      "pillar": "pillar_17",
+      "it_series": "it_series_17",
+      "app_type": "app_type_17",
+      "assign_group": "assign_group_17",
+      "__metadata": {
+        "id": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_17)",
+        "uri": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_17)",
+        "type": "ZCDC_EX01_TOP_CDS.ZCDC_EX01_TOPType"
+      }
+    },
+    {
+      "app_id": "app_id_18",
+      "app_name": "app_name_18",
+      "pillar": "pillar_18",
+      "it_series": "it_series_18",
+      "app_type": "app_type_18",
+      "assign_group": "assign_group_18",
+      "__metadata": {
+        "id": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_18)",
+        "uri": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_18)",
+        "type": "ZCDC_EX01_TOP_CDS.ZCDC_EX01_TOPType"
+      }
+    },
+    {
+      "app_id": "app_id_19",
+      "app_name": "app_name_19",
+      "pillar": "pillar_19",
+      "it_series": "it_series_19",
+      "app_type": "app_type_19",
+      "assign_group": "assign_group_19",
+      "__metadata": {
+        "id": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_19)",
+        "uri": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_19)",
+        "type": "ZCDC_EX01_TOP_CDS.ZCDC_EX01_TOPType"
+      }
+    },
+    {
+      "app_id": "app_id_20",
+      "app_name": "app_name_20",
+      "pillar": "pillar_20",
+      "it_series": "it_series_20",
+      "app_type": "app_type_20",
+      "assign_group": "assign_group_20",
+      "__metadata": {
+        "id": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_20)",
+        "uri": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_20)",
+        "type": "ZCDC_EX01_TOP_CDS.ZCDC_EX01_TOPType"
+      }
+    },
+    {
+      "app_id": "app_id_21",
+      "app_name": "app_name_21",
+      "pillar": "pillar_21",
+      "it_series": "it_series_21",
+      "app_type": "app_type_21",
+      "assign_group": "assign_group_21",
+      "__metadata": {
+        "id": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_21)",
+        "uri": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_21)",
+        "type": "ZCDC_EX01_TOP_CDS.ZCDC_EX01_TOPType"
+      }
+    },
+    {
+      "app_id": "app_id_22",
+      "app_name": "app_name_22",
+      "pillar": "pillar_22",
+      "it_series": "it_series_22",
+      "app_type": "app_type_22",
+      "assign_group": "assign_group_22",
+      "__metadata": {
+        "id": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_22)",
+        "uri": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_22)",
+        "type": "ZCDC_EX01_TOP_CDS.ZCDC_EX01_TOPType"
+      }
+    },
+    {
+      "app_id": "app_id_23",
+      "app_name": "app_name_23",
+      "pillar": "pillar_23",
+      "it_series": "it_series_23",
+      "app_type": "app_type_23",
+      "assign_group": "assign_group_23",
+      "__metadata": {
+        "id": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_23)",
+        "uri": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_23)",
+        "type": "ZCDC_EX01_TOP_CDS.ZCDC_EX01_TOPType"
+      }
+    },
+    {
+      "app_id": "app_id_24",
+      "app_name": "app_name_24",
+      "pillar": "pillar_24",
+      "it_series": "it_series_24",
+      "app_type": "app_type_24",
+      "assign_group": "assign_group_24",
+      "__metadata": {
+        "id": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_24)",
+        "uri": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_24)",
+        "type": "ZCDC_EX01_TOP_CDS.ZCDC_EX01_TOPType"
+      }
+    },
+    {
+      "app_id": "app_id_25",
+      "app_name": "app_name_25",
+      "pillar": "pillar_25",
+      "it_series": "it_series_25",
+      "app_type": "app_type_25",
+      "assign_group": "assign_group_25",
+      "__metadata": {
+        "id": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_25)",
+        "uri": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_25)",
+        "type": "ZCDC_EX01_TOP_CDS.ZCDC_EX01_TOPType"
+      }
+    },
+    {
+      "app_id": "app_id_26",
+      "app_name": "app_name_26",
+      "pillar": "pillar_26",
+      "it_series": "it_series_26",
+      "app_type": "app_type_26",
+      "assign_group": "assign_group_26",
+      "__metadata": {
+        "id": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_26)",
+        "uri": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_26)",
+        "type": "ZCDC_EX01_TOP_CDS.ZCDC_EX01_TOPType"
+      }
+    },
+    {
+      "app_id": "app_id_27",
+      "app_name": "app_name_27",
+      "pillar": "pillar_27",
+      "it_series": "it_series_27",
+      "app_type": "app_type_27",
+      "assign_group": "assign_group_27",
+      "__metadata": {
+        "id": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_27)",
+        "uri": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_27)",
+        "type": "ZCDC_EX01_TOP_CDS.ZCDC_EX01_TOPType"
+      }
+    },
+    {
+      "app_id": "app_id_28",
+      "app_name": "app_name_28",
+      "pillar": "pillar_28",
+      "it_series": "it_series_28",
+      "app_type": "app_type_28",
+      "assign_group": "assign_group_28",
+      "__metadata": {
+        "id": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_28)",
+        "uri": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_28)",
+        "type": "ZCDC_EX01_TOP_CDS.ZCDC_EX01_TOPType"
+      }
+    },
+    {
+      "app_id": "app_id_29",
+      "app_name": "app_name_29",
+      "pillar": "pillar_29",
+      "it_series": "it_series_29",
+      "app_type": "app_type_29",
+      "assign_group": "assign_group_29",
+      "__metadata": {
+        "id": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_29)",
+        "uri": "/sap/opu/odata/sap/ZCDC_EX01_TOP_CDS//ZCDC_EX01_TOP(app_id_29)",
+        "type": "ZCDC_EX01_TOP_CDS.ZCDC_EX01_TOPType"
+      }
+    }
+  ]
+}
